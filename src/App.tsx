@@ -37,7 +37,7 @@ function App() {
             break;
           case 'f':
             e.preventDefault();
-            document.querySelector('input[type="text"]')?.focus();
+            (document.querySelector('input[type="text"]') as HTMLInputElement)?.focus();
             break;
         }
       }
