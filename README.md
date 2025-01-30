@@ -1,6 +1,8 @@
 # Notepad Application
 
 This project is a note-taking application built with React, TypeScript, and Vite. It features a user-friendly interface for creating, editing, and managing notes.
+![2025-01-30_15-20](https://github.com/user-attachments/assets/79922dc8-8714-4cb3-8754-d664a9919ecb)
+
 
 ## Features
 
