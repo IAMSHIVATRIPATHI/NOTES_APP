@@ -12,21 +12,23 @@ This project is a note-taking application built with React, TypeScript, and Vite
 - **Data Persistence**: Save notes to local storage and import/export notes as JSON files.
 - **Responsive Design**: Built with Tailwind CSS for a responsive and modern UI.
 
-
 ## Installation
 
 1. Clone the repository:
+
     ```sh
     git clone https://github.com/your-username/notepad-app.git
     cd notepad-app
     ```
 
 2. Install dependencies:
+
     ```sh
     npm install
     ```
 
 3. Start the development server:
+
     ```sh
     npm run dev
     ```
@@ -65,5 +67,3 @@ This project is a note-taking application built with React, TypeScript, and Vite
 - [`tailwind.config.js`](tailwind.config.js ): Tailwind CSS configuration file.
 - [`tsconfig.json`](tsconfig.json ): TypeScript configuration file.
 - [`eslint.config.js`](eslint.config.js ): ESLint configuration file.
-
-
