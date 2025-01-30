@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import { PlusSquare } from 'lucide-react';
 import { Note, MenuState, SortOption } from './types';
 import { NoteList } from './components/NoteList';
